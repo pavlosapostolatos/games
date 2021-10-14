@@ -7,3 +7,5 @@
 - gcc or g++ required
 - Navigate to each folder run `make` then run the executable
 - run on linux
+
+minimax AI TBA to HEX....maybe👀
